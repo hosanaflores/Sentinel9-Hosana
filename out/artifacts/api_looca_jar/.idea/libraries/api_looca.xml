@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="api-looca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/api-looca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
